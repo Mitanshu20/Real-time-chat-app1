@@ -1,7 +1,7 @@
 # Real time-Chat-App
 
 # Technologies used :: Frontend :- React
-                       #Backend  :- NodeJS + Socket.io web socket library
+                       # Backend  :- NodeJS + Socket.io web socket library
 
 ## Demo
 
@@ -20,6 +20,7 @@
 
 Backend-deployment link :- https://chat-----room.herokuapp.com/  OR https://chao-chat.herokuapp.com/
 
-# Complte deployment link :- chao-chat.netlify.app/
+# Complte deployment link :- 
+                             chao-chat.netlify.app/
 Join the room and enjoy the chat between your friends 😉😉🤟
 
