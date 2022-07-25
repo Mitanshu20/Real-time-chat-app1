@@ -13,7 +13,7 @@
 
 1. Clone the repo
 2. cd client
-3. Install necessary dependecies for client side using #npm or yarn.
+3. Install necessary dependecies for client side using **npm or yarn**.
 3. Run npm start to run client side // check localhost:3000
 4. cd server
 5. Repeat step 3 for server side 
