@@ -24,5 +24,5 @@ Backend-deployment link :- https://chat-----room.herokuapp.com/  OR https://chao
 
 **Complte deployment link** :- https://chao-chat.netlify.app/
 
-# Join the room and enjoy the chat between your friends 😉😉🤟
+# Join the room and enjoy the chat with your friends 😉😉🤟
 
