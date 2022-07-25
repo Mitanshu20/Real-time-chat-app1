@@ -1,7 +1,7 @@
 # Real time-Chat-App
 
 # Technologies used :: Frontend :- React
-                       Backend  :- NodeJS + Socket.io web socket library
+                       #Backend  :- NodeJS + Socket.io web socket library
 
 ## Demo
 
